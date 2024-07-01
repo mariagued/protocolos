@@ -1,2 +1,6 @@
-# protocolos
-Protocolos XMPP, DNS, NFS e BitTorrent
+🌐 Protocolos
+Pesquisa sobre os seguintes protocolos:
+◦ XMPP
+◦ DNS sobre HTTPS
+◦ NFS
+◦ BitTorrent
